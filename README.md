@@ -8,7 +8,7 @@
 
 ## 查看
 
-直接在浏览器输入 [localhost:9600/index.html](localhost:9600/index.html)
+直接在浏览器输入：[localhost:9600/index.html](http://localhost:9600/index.html)
 
 ![image](https://github.com/tsingsee/RTMPLive/blob/master/images/list0.png)
 
