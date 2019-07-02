@@ -10,13 +10,11 @@
 
 直接在浏览器输入：[localhost:9600/index.html](http://localhost:9600/index.html)
 
-![image](https://github.com/tsingsee/RTMPLive/blob/master/images/list0.png)
+![image](https://github.com/tsingsee/RTMPLive/blob/master/images/list.png)
 
 ## 操作
 
 第一次运行打开界面列表应该是没有数据的，我们根据自己的需求新增数据
-
-![image](https://github.com/tsingsee/RTMPLive/blob/master/images/list1.png)
 
 ### 新增
 
@@ -40,7 +38,13 @@
 
 在主界面的搜索框输入会匹配我们列表中的名称字段的值，当列表中数据过多的时候可以很方便我们快速找到我们想要找的那条数据
 
+当我们在搜索框输入1的时候，因为我们列表中有一个名称为test1的数据，这条数据就会被匹配到，显示在列表中
 
+![image](https://github.com/tsingsee/RTMPLive/blob/master/images/search0.png)
+
+当我们在搜索框输入2的时候，因为我们列表中没有一个名称中带有2的数据，没有数据被匹配到，列表中就一条数据都不会显示
+
+![image](https://github.com/tsingsee/RTMPLive/blob/master/images/search1.png)
 
 ### 获取更多信息
 
