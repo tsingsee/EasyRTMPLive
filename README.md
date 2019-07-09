@@ -2,13 +2,13 @@
 
 ## 启动
 
-目前只支持windows系统，直接点击RTMPLive.exe文件启动,会出现一个命令行窗口，不能关闭这个窗口
+目前只支持windows系统，直接点击EasyRTMPLive.exe文件启动,会出现一个命令行窗口，不能关闭这个窗口
 
 ![image](https://github.com/tsingsee/EasyRTMPLive/blob/master/images/start.png)
 
 ## 查看
 
-直接在浏览器输入：[http://localhost:9600/index.html](http://localhost:9600/index.html)
+直接在浏览器输入：[http://localhost:19600/index.html](http://localhost:9600/index.html)
 
 ![image](https://github.com/tsingsee/EasyRTMPLive/blob/master/images/list.png)
 
