@@ -50,4 +50,4 @@
 
 TSINGSEE青犀开放平台：[http://open.tsingsee.com](http://open.tsingsee.com)
 
-Copyright © TSINGSEE.com 2012~2019
+Copyright © TSINGSEE.com 2012~2020
